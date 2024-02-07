@@ -1,0 +1,30 @@
+XP:4.4, ST:5.4, RET:2
+Kathryn
+Paulette
+Jerrilee
+Leroy
+Clifford
+XP:4.2, ST:6.8, RET:3
+Marga
+Lana
+Spud
+Arlie
+Sharla
+XP:6.8, ST:8.4, RET:2
+Moishe
+Graehme
+Olympe
+Pascale
+Michail
+XP:6.2, ST:5.6, RET:1
+Kelwin
+Jaquelyn
+Marge
+Barthel
+Goldie
+XP:4.8, ST:6.4, RET:4
+Jarvis
+Audrie
+Garret
+Michal
+Wallis
