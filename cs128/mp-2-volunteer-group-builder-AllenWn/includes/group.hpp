@@ -23,7 +23,7 @@ public:
   Volunteer& GetRandomVolunteer();
 
 private:
-  std::vector<Volunteer> volunteers;
+  std::vector<Volunteer> volunteers_;
 };
 
 std::ostream& operator<<(std::ostream& os, const Group& g_in);

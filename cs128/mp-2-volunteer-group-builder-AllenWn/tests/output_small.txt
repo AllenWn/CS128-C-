@@ -1,30 +1,30 @@
-XP:4.4, ST:5.4, RET:2
+XP:4.6, ST:6.6, RET:2
+Pascale
 Kathryn
 Paulette
 Jerrilee
 Leroy
-Clifford
-XP:4.2, ST:6.8, RET:3
+XP:5.2, ST:5.4, RET:3
+Wallis
 Marga
 Lana
-Spud
-Arlie
-Sharla
-XP:6.8, ST:8.4, RET:2
-Moishe
-Graehme
 Olympe
-Pascale
+Spud
+XP:7, ST:7.4, RET:1
+Moishe
+Barthel
+Goldie
+Graehme
+Clifford
+XP:5, ST:5.8, RET:2
 Michail
-XP:6.2, ST:5.6, RET:1
+Arlie
 Kelwin
 Jaquelyn
 Marge
-Barthel
-Goldie
-XP:4.8, ST:6.4, RET:4
+XP:4.6, ST:7.4, RET:4
+Sharla
 Jarvis
 Audrie
 Garret
 Michal
-Wallis

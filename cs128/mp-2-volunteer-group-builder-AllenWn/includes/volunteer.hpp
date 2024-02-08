@@ -25,10 +25,10 @@ public:
   bool IsReturning() const;
 
 private:
-  std::string name;
-  int building_experience;
-  int physical_stamina;
-  bool returing;
+  std::string name_;
+  int building_experience_;
+  int physical_stamina_;
+  bool returing_;
 };
 
 #endif
